@@ -4,4 +4,5 @@
 void foo1(void)
 {
 	printf("foo1\n");
+	printf("goodbye\n");
 }
